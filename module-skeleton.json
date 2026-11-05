@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-rules-flutter",
+  "capabilityKey": "liberusoftware/automation-rules",
+  "presentation": "mobile-flutter",
+  "package": "module_automation_rules_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/automation/nextjs/rules.md",
+  "presentationPlan": "projects/automation/flutter/rules.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
